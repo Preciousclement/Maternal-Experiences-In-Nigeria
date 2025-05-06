@@ -3,9 +3,9 @@
 This project simulates a realistic dataset of 5,000 Nigerian mothers to explore maternal health, pregnancy experiences, and delivery outcomes.
 
 ## 📂 Dataset Tables
-- `nigeria_maternal_demographics_2000.csv`
-- `nigeria_pregnancy_experience_2000.csv`
-- `nigeria_delivery_postpartum_2000.csv`
+- `nigeria_maternal_demographics_5000.csv`
+- `nigeria_pregnancy_experience_5000.csv`
+- `nigeria_delivery_postpartum_5000.csv`
 
 ## 📊 Whats in the Data?
 
