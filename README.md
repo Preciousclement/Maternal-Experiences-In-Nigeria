@@ -33,7 +33,31 @@ This dataset is for educational and exploratory use. It's fictional but statisti
 - Jupyter Notebook
 - Power BI
 
+Perfect! Your README is already solid and clear. Now, for the **Power BI section**, you can include a part that:
+
+1. Explains what you visualized.
+2. Shows how users can access or replicate the visualizations.
+3. Optionally links to a Power BI report if you’ve published it online.
+
+
+
+## 📊 Power BI Visualizations
+
+This project also includes **Power BI dashboards** to explore maternal health patterns and insights:
+
+* **Demographics Dashboard** – Visualizes age distribution, education levels, employment, and urban/rural populations.
+* **Pregnancy Experience Dashboard** – Tracks antenatal visits, pregnancy symptoms, cravings, and mood trends.
+* **Delivery & Postpartum Dashboard** – Displays delivery methods, birth complications, baby health outcomes, and support systems.
+
+> To view the dashboards:
+> 1. Open `MaternalHealthDashboard.pbix` in Power BI Desktop.
+> 2. Load the CSVs files.
+> 3. Interact with slicers and charts to explore different maternal health patterns.
+
+
 ---
+
+
 
 ## 🙌 Contributions
 
