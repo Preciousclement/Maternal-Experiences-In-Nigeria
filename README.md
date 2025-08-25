@@ -22,16 +22,16 @@ This project simulates a realistic dataset of 5,000 Nigerian mothers to explore 
 
 ## 🚀 How to Use
 1. Clone the repository
-2. Run `notebooks/data_generation.ipynb` in Jupyter
-3. Use CSVs under `data/` for analysis or modeling
+2. Run `Maternal Experience Project Simulation.ipynb` in Jupyter
+3. Use CSVs for analysis or modeling
 
 ## 🔍 Purpose
-This dataset is for educational, exploratory, and data science portfolio use. It's fictional but statistically inspired by maternal health trends in Nigeria.
+This dataset is for educational and exploratory use. It's fictional but statistically inspired by data from NDHS 2018 (fertility rate ~5.5, antenatal care ~60% ≥4 visits), WHO data (C-section rate ~2–5%), and studies on postpartum depression (~10–15% in Nigeria). 
 
 ## 🛠 Built With
 - Python (pandas, numpy)
 - Jupyter Notebook
-- Tableau
+- Power BI
 
 ---
 
