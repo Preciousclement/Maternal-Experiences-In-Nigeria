@@ -1,4 +1,4 @@
-# Understanding Maternal Experiences in Nigeria
+# Understanding Maternal Experiences In Nigeria
 
 **Project Type:** Data Retrieval → Cleaning / EDA → Interactive Visualization
 
@@ -90,7 +90,18 @@ This project includes **Power BI dashboards** to explore maternal health pattern
 - **Pregnancy Experience Dashboard** – Tracks antenatal visits, pregnancy symptoms, cravings, and mood trends.  
 - **Delivery & Postpartum Dashboard** – Displays delivery methods (80% vaginal, 16% C-section), birth complications, baby health outcomes (88.67% healthy), and support systems.
 
-**To view the dashboards:**  
+
+### Demographics Dashboard
+![Demographics Dashboard](assets/demographics_dashboard.png)
+
+### Pregnancy Experience Dashboard
+![Pregnancy Experience Dashboard](assets/pregnancy_dashboard.png)
+
+### Delivery & Postpartum Dashboard
+![Delivery & Postpartum Dashboard](assets/delivery_dashboard.png)
+
+
+**To Interact with the dashboards:**  
 1. Open `MaternalHealthDashboard.pbix` in Power BI Desktop.  
 2. Load the CSV files.  
 3. Interact with slicers and charts to explore different maternal health patterns.
