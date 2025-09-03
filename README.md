@@ -92,13 +92,15 @@ This project includes **Power BI dashboards** to explore maternal health pattern
 
 
 ### Demographics Dashboard
-![Demographics Dashboard](assets/demographics_dashboard.png)
+<img width="1154" height="647" alt="Maternal Demographics" src="https://github.com/user-attachments/assets/d7745cec-55ac-4e87-bb62-6d199c32e066" />
+
 
 ### Pregnancy Experience Dashboard
-![Pregnancy Experience Dashboard](assets/pregnancy_dashboard.png)
+<img width="1166" height="653" alt="Maternal Pregnancy" src="https://github.com/user-attachments/assets/2fb991bb-cc17-47ff-9d50-0bc226475696" />
+
 
 ### Delivery & Postpartum Dashboard
-![Delivery & Postpartum Dashboard](assets/delivery_dashboard.png)
+<img width="1157" height="652" alt="Maternal Postpartum" src="https://github.com/user-attachments/assets/f9c55fed-19ec-4fe5-a5fc-22fb28a86f3d" />
 
 
 **To Interact with the dashboards:**  
