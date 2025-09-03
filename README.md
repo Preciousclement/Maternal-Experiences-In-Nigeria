@@ -9,8 +9,8 @@
 - [Tools Used](#tools-used)
 - [Objectives](#objectives)
 - [Steps Taken](#steps-taken)
-- [Key Insights](#key-insights)
 - [Power BI Visualizations](#power-bi-visualizations)
+- [Key Insights](#key-insights)
 - [Conclusion](#conclusion)
 - [Contributions](#contributions)
 - [License](#license)
@@ -61,35 +61,11 @@ The dataset is fictional but statistically inspired by data from:
 - Generated a synthetic dataset using Python and Jupyter Notebook.  
 - Modeled the data using a **star schema** for efficient analysis.  
 - Created calculated measures in Power BI to derive insights.  
-- Developed interactive dashboards for Demographics, Pregnancy Experience, and Delivery & Postpartum.
-
----
-
-## Key Insights
-- **Demographics Dashboard**:  
-  - Age distribution: 20–34 years dominant  
-  - Education: 30.4% none, 39.74% secondary  
-  - Urban/Rural: 50.36% urban, 49.64% rural  
-
-- **Pregnancy Experience Dashboard**:  
-  - 41% received good quality antenatal care  
-  - Common symptoms: nausea, fatigue  
-  - Popular cravings: oats, fruits  
-
-- **Delivery & Postpartum Dashboard**:  
-  - C-section rate: 16%  
-  - Birth complications: 61% (3988 none, 539 hemorrhage)  
-  - Postpartum depression: 15% prevalence  
+- Developed interactive dashboards for Demographics, Pregnancy Experience, and Postpartum. 
 
 ---
 
 ## Power BI Visualizations
-This project includes **Power BI dashboards** to explore maternal health patterns:
-
-- **Demographics Dashboard** – Visualizes age distribution, education levels, employment, and urban/rural populations.  
-- **Pregnancy Experience Dashboard** – Tracks antenatal visits, pregnancy symptoms, cravings, and mood trends.  
-- **Delivery & Postpartum Dashboard** – Displays delivery methods (80% vaginal, 16% C-section), birth complications, baby health outcomes (88.67% healthy), and support systems.
-
 
 ### Demographics Dashboard
 <img width="1154" height="647" alt="Maternal Demographics" src="https://github.com/user-attachments/assets/d7745cec-55ac-4e87-bb62-6d199c32e066" />
@@ -102,16 +78,41 @@ This project includes **Power BI dashboards** to explore maternal health pattern
 ### Delivery & Postpartum Dashboard
 <img width="1157" height="652" alt="Maternal Postpartum" src="https://github.com/user-attachments/assets/f9c55fed-19ec-4fe5-a5fc-22fb28a86f3d" />
 
+---
+
+## Key Insights
+
+### 1. Demographics  
+- Most mothers fall within the **20–29 years** range, the critical reproductive age bracket.
+- Most mothers have at least some secondary education. This suggests that awareness campaigns can effectively leverage existing literacy levels.  
+- Rural communities report slightly higher maternal cases than urban areas
+- 2577 women are informally employed.  
+
+### 2. Pregnancy & Antenatal Care  
+- **Quality of care remains low**: only **41% received good quality antenatal care**, while the majority had poor to fair experiences.  
+- The **average number of pregnancies is 4**, consistent with high fertility rates in similar populations.  
+- **Preterm births account for ~5% (259 cases)**, underlining the need for better monitoring and early intervention during pregnancy.  
+
+### 3. Delivery & Postpartum  
+- **Postpartum depression and mental health issues** are underreported, signaling a gap in maternal support services.
+- **Delivery settings are mixed**: 52% in hospitals vs. 48% at home or with traditional birth attendants (TBAs). This split shows gaps in access and trust in formal health systems.  
+- **15% of mothers reported postpartum depression**, a significant figure that highlights the need for stronger maternal mental health services.  
+- **Postnatal care was accessed by 61% of mothers**, leaving nearly 40% without essential follow-up care.  
+
+### 4. Child Outcomes  
+- **Most newborns were healthy (88.7%)**, but **6.6% were underweight** and **4.8% experienced complications**.  
+- Low birth weight was strongly associated with **poor antenatal attendance and inadequate nutrition** during pregnancy.  
+
 
 **To Interact with the dashboards:**  
-1. Open `MaternalHealthDashboard.pbix` in Power BI Desktop.  
+1. Open `Maternal Health In Nigeria (Simulated).pbix` in Power BI Desktop.  
 2. Load the CSV files.  
 3. Interact with slicers and charts to explore different maternal health patterns.
 
 ---
 
-## Conclusion
-This project provides a comprehensive view of maternal experiences in Nigeria through simulated data and interactive visualizations. It serves as a **valuable educational resource** and can be extended with real data or additional analyses.
+## Conclusion  
+The evaluation highlights clear gaps in **early antenatal care, delivery safety, mental health support, and postnatal follow-up**. While education levels suggest mothers can adopt improved health practices, rural residence and reliance on TBAs remain barriers. Addressing these areas could significantly improve both **maternal and child health outcomes**. 
 
 ---
 
